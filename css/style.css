@@ -1,0 +1,46 @@
+body {
+	margin: 0 auto;
+	min-width: 900px;
+	max-width: 1200px;
+	background-color: #00d8ff;
+}
+
+h1, h2 {
+	margin: 1em 0;
+	text-align: center;
+	font-family: 'JelleeBold', 'sans-serif'; 
+  	font-weight: normal; 
+   	font-style: normal;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+p, blockquote {
+	font-family: 'arial', 'sans-serif';
+	font-size: 1.2em;
+	font-weight: normal;
+	text-align: center;
+	margin: 1.5em 10%;
+}
+
+#wrapper {
+	margin: 5% 5%;
+	padding: 1.5em;
+	background-color: lightgray;
+	border: 2px groove black;
+	box-shadow: 5px 5px 5px black;
+}
+
+#me {
+	width: 80%;
+	margin: 0 10%;
+	border: 1px groove black;
+	box-shadow: 3px 3px 3px black;
+	border-radius: 60px;
+}
