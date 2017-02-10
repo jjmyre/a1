@@ -15,8 +15,8 @@
     	<h1>Justin Myre</h1>
     	<img id="me" src="images/me.jpg" alt="Justin with Sherman the Beagle"/>
     	<h2>About Me</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in pulvinar libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in pulvinar libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in pulvinar libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in pulvinar libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+        <p>I was born and partially raised in Montana, but moved to southeastern Washington when I was in secondary school. I graduated from Montana State University in Bozeman with a BA in Media Production and worked on films and commercials in Los Angeles soon after. When LA grew tiring for me (and boy did it ever), I retreated back to my hometown in Washington state where I currently reside. I still work in media, though on a much smaller scale (local news stations, freelance, etc). I enjoy the great outdoors and feel blessed for living in the Pacific Northwest where there is plenty of roaming space and scenery to explore. In recent years I've begun to shift my attention more toward web design and development and have found that several of my skill sets are transferrable and applicable. What was once a passing interest eventually led me to pursue an MLA in Digital Media Design through the Harvard Extension School.</p>
+     
         <h2>Random Quotes</h2>
         <blockquote>
         </blockquote>    
